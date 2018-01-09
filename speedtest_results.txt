@@ -1,0 +1,409 @@
+Vodafone Router mit beigelegtem Kabel
+
+Di  9 Jan 2018 09:41:31 CET
+Ping: 25.502 ms
+Download: 8.43 Mbit/s
+Upload: 1.35 Mbit/s
+
+Tue Jan  9 09:44:22 CET 2018
+Ping: 36.062 ms
+Download: 29.55 Mbit/s
+Upload: 1.53 Mbit/s
+
+Tue Jan  9 09:54:58 CET 2018
+Ping: 210.186 ms
+Download: 28.94 Mbit/s
+Upload: 1.25 Mbit/s
+
+Tue Jan  9 09:59:12 CET 2018
+Ping: 87.132 ms
+Download: 12.02 Mbit/s
+Upload: 0.99 Mbit/s
+
+Kabelwechsel zu FritzBox beigelegtem Kabel
+
+Tue Jan  9 10:15:12 CET 2018
+Ping: 392.771 ms
+Download: 5.09 Mbit/s
+Upload: 1.82 Mbit/s
+
+Tue Jan  9 10:20:55 CET 2018
+Ping: 55.059 ms
+Download: 51.61 Mbit/s
+Upload: 1.76 Mbit/s
+
+Tue Jan  9 10:26:31 CET 2018
+Ping: 32.531 ms
+Download: 20.58 Mbit/s
+Upload: 1.90 Mbit/s
+
+Tue Jan  9 10:32:05 CET 2018
+Ping: 79.849 ms
+Download: 6.04 Mbit/s
+Upload: 1.52 Mbit/s
+
+Tue Jan  9 10:37:39 CET 2018
+Ping: 35.063 ms
+Download: 16.09 Mbit/s
+Upload: 1.79 Mbit/s
+
+Switch auf FritzBox mit FritzBox beigelegtem Kabel
+
+Tue Jan  9 11:12:42 CET 2018
+Ping: 38.838 ms
+Download: 102.88 Mbit/s
+Upload: 1.82 Mbit/s
+
+Tue Jan  9 11:18:15 CET 2018
+Ping: 28.848 ms
+Download: 29.59 Mbit/s
+Upload: 1.78 Mbit/s
+
+Tue Jan  9 11:23:48 CET 2018
+Ping: 33.269 ms
+Download: 28.84 Mbit/s
+Upload: 1.99 Mbit/s
+
+Tue Jan  9 11:29:16 CET 2018
+Ping: 34.838 ms
+Download: 86.82 Mbit/s
+Upload: 1.45 Mbit/s
+
+Tue Jan  9 11:34:48 CET 2018
+Ping: 33.418 ms
+Download: 13.91 Mbit/s
+Upload: 1.19 Mbit/s
+
+Tue Jan  9 11:40:25 CET 2018
+Ping: 91.584 ms
+Download: 122.29 Mbit/s
+Upload: 1.91 Mbit/s
+
+Tue Jan  9 11:45:59 CET 2018
+Ping: 71.998 ms
+Download: 103.37 Mbit/s
+Upload: 1.79 Mbit/s
+
+Tue Jan  9 11:51:31 CET 2018
+Ping: 47.485 ms
+Download: 54.83 Mbit/s
+Upload: 1.83 Mbit/s
+
+Tue Jan  9 11:57:02 CET 2018
+Ping: 141.968 ms
+Download: 63.26 Mbit/s
+Upload: 1.85 Mbit/s
+
+Tue Jan  9 12:02:44 CET 2018
+Ping: 31.922 ms
+Download: 11.29 Mbit/s
+Upload: 1.54 Mbit/s
+
+Tue Jan  9 12:08:29 CET 2018
+Ping: 33.244 ms
+Download: 10.60 Mbit/s
+Upload: 2.04 Mbit/s
+
+Tue Jan  9 12:13:58 CET 2018
+Ping: 32.26 ms
+Download: 62.64 Mbit/s
+Upload: 1.87 Mbit/s
+
+Tue Jan  9 12:19:25 CET 2018
+Ping: 73.831 ms
+Download: 61.38 Mbit/s
+Upload: 1.46 Mbit/s
+
+Tue Jan  9 12:24:56 CET 2018
+Cannot retrieve speedtest configuration
+
+Firmware Update der FB
+
+Tue Jan  9 12:29:56 CET 2018
+Ping: 129.725 ms
+Download: 18.11 Mbit/s
+Upload: 1.42 Mbit/s
+
+Tue Jan  9 12:35:41 CET 2018
+Ping: 31.651 ms
+Download: 108.85 Mbit/s
+Upload: 1.76 Mbit/s
+
+Tue Jan  9 12:41:16 CET 2018
+Ping: 34.035 ms
+Download: 91.14 Mbit/s
+Upload: 1.63 Mbit/s
+
+Tue Jan  9 12:46:49 CET 2018
+Ping: 83.903 ms
+Download: 105.22 Mbit/s
+Upload: 1.58 Mbit/s
+
+Tue Jan  9 12:52:33 CET 2018
+Ping: 91.412 ms
+Download: 7.84 Mbit/s
+Upload: 0.95 Mbit/s
+
+Tue Jan  9 12:58:17 CET 2018
+Cannot retrieve speedtest configuration
+
+Tue Jan  9 13:03:47 CET 2018
+Ping: 35.97 ms
+Download: 75.77 Mbit/s
+Upload: 1.70 Mbit/s
+
+Tue Jan  9 13:09:18 CET 2018
+Ping: 24.459 ms
+Download: 16.57 Mbit/s
+Upload: 2.06 Mbit/s
+
+Tue Jan  9 13:14:52 CET 2018
+Ping: 36.14 ms
+Download: 68.98 Mbit/s
+Upload: 1.98 Mbit/s
+
+Tue Jan  9 13:20:23 CET 2018
+Ping: 58.223 ms
+Download: 79.23 Mbit/s
+Upload: 1.33 Mbit/s
+
+Tue Jan  9 13:25:57 CET 2018
+Ping: 54.831 ms
+Download: 48.58 Mbit/s
+Upload: 1.71 Mbit/s
+
+Tue Jan  9 13:31:31 CET 2018
+Ping: 28.679 ms
+Download: 75.16 Mbit/s
+Upload: 1.75 Mbit/s
+
+Tue Jan  9 13:37:00 CET 2018
+Ping: 37.943 ms
+Download: 109.98 Mbit/s
+Upload: 1.52 Mbit/s
+
+Tue Jan  9 13:42:30 CET 2018
+Ping: 28.285 ms
+Download: 25.04 Mbit/s
+Upload: 1.17 Mbit/s
+
+Tue Jan  9 13:48:04 CET 2018
+Ping: 42.328 ms
+Download: 64.51 Mbit/s
+Upload: 1.07 Mbit/s
+Tue Jan  9 13:53:41 CET 2018
+Ping: 30.959 ms
+Download: 34.45 Mbit/s
+Upload: 1.30 Mbit/s
+
+Tue Jan  9 13:59:21 CET 2018
+Cannot retrieve speedtest configuration
+
+Tue Jan  9 14:04:51 CET 2018
+Cannot retrieve speedtest configuration
+
+Tue Jan  9 14:10:22 CET 2018
+Ping: 209.983 ms
+Download: 13.33 Mbit/s
+Upload: 1.49 Mbit/s
+
+Tue Jan  9 14:16:13 CET 2018
+Ping: 76.135 ms
+Download: 23.43 Mbit/s
+Upload: 1.03 Mbit/s
+
+Tue Jan  9 14:21:51 CET 2018
+Ping: 236.088 ms
+Download: 4.28 Mbit/s
+Upload: 1.51 Mbit/s
+
+Tue Jan  9 14:27:32 CET 2018
+Ping: 37.255 ms
+Download: 22.40 Mbit/s
+Upload: 1.39 Mbit/s
+
+Tue Jan  9 14:33:09 CET 2018
+Ping: 227.345 ms
+Download: 10.73 Mbit/s
+Upload: 0.96 Mbit/s
+
+Tue Jan  9 14:38:56 CET 2018
+Ping: 32.327 ms
+Download: 59.95 Mbit/s
+Upload: 1.04 Mbit/s
+
+Tue Jan  9 14:44:35 CET 2018
+Ping: 58.349 ms
+Download: 2.80 Mbit/s
+Upload: 1.32 Mbit/s
+
+Tue Jan  9 14:50:23 CET 2018
+Ping: 43.435 ms
+Download: 3.05 Mbit/s
+Upload: 1.19 Mbit/s
+
+Tue Jan  9 14:56:02 CET 2018
+Ping: 73.854 ms
+Download: 1.72 Mbit/s
+Upload: 0.90 Mbit/s
+
+Tue Jan  9 15:01:49 CET 2018
+Ping: 168.684 ms
+Download: 3.72 Mbit/s
+Upload: 0.71 Mbit/s
+
+Tue Jan  9 15:07:45 CET 2018
+Ping: 60.276 ms
+Download: 101.13 Mbit/s
+Upload: 1.47 Mbit/s
+
+Tue Jan  9 15:13:26 CET 2018
+Ping: 57.638 ms
+Download: 5.10 Mbit/s
+Upload: 0.75 Mbit/s
+
+Tue Jan  9 15:19:15 CET 2018
+Ping: 41.003 ms
+Download: 6.75 Mbit/s
+Upload: 1.47 Mbit/s
+
+Tue Jan  9 15:25:13 CET 2018
+Ping: 162.528 ms
+Download: 6.42 Mbit/s
+Upload: 0.90 Mbit/s
+
+Tue Jan  9 15:31:04 CET 2018
+Ping: 128.023 ms
+Download: 7.24 Mbit/s
+Upload: 1.43 Mbit/s
+
+Tue Jan  9 15:36:47 CET 2018
+Ping: 67.421 ms
+Download: 4.60 Mbit/s
+Upload: 1.36 Mbit/s
+
+Tue Jan  9 15:42:38 CET 2018
+Ping: 395.312 ms
+Download: 21.84 Mbit/s
+Upload: 1.17 Mbit/s
+
+Tue Jan  9 15:48:30 CET 2018
+Ping: 261.73 ms
+Download: 1.81 Mbit/s
+Upload: 1.58 Mbit/s
+
+Tue Jan  9 15:54:23 CET 2018
+Ping: 59.191 ms
+Download: 19.70 Mbit/s
+Upload: 1.03 Mbit/s
+
+Tue Jan  9 16:00:00 CET 2018
+Ping: 94.569 ms
+Download: 6.37 Mbit/s
+Upload: 1.37 Mbit/s
+
+Tue Jan  9 16:05:50 CET 2018
+Ping: 43.329 ms
+Download: 6.26 Mbit/s
+Upload: 1.38 Mbit/s
+
+Tue Jan  9 16:11:30 CET 2018
+Ping: 47.659 ms
+Download: 10.87 Mbit/s
+Upload: 1.13 Mbit/s
+
+Tue Jan  9 16:17:20 CET 2018
+Ping: 59.67 ms
+Download: 1.46 Mbit/s
+Upload: 1.25 Mbit/s
+
+Tue Jan  9 16:23:19 CET 2018
+Ping: 239.911 ms
+Download: 5.58 Mbit/s
+Upload: 0.78 Mbit/s
+
+Tue Jan  9 16:29:15 CET 2018
+Ping: 85.795 ms
+Download: 14.42 Mbit/s
+Upload: 1.39 Mbit/s
+
+Tue Jan  9 16:34:50 CET 2018
+Ping: 160.012 ms
+Download: 16.88 Mbit/s
+Upload: 1.16 Mbit/s
+
+Tue Jan  9 16:40:32 CET 2018
+Ping: 44.601 ms
+Download: 3.05 Mbit/s
+Upload: 1.51 Mbit/s
+
+Tue Jan  9 16:46:16 CET 2018
+Ping: 27.22 ms
+Download: 16.52 Mbit/s
+Upload: 1.37 Mbit/s
+
+Tue Jan  9 16:51:54 CET 2018
+Ping: 49.278 ms
+Download: 5.37 Mbit/s
+Upload: 1.09 Mbit/s
+
+Tue Jan  9 16:57:41 CET 2018
+Ping: 101.589 ms
+Download: 20.52 Mbit/s
+Upload: 1.16 Mbit/s
+
+Tue Jan  9 17:03:28 CET 2018
+Ping: 123.876 ms
+Download: 36.99 Mbit/s
+Upload: 1.19 Mbit/s
+
+Tue Jan  9 17:09:18 CET 2018
+Ping: 27.647 ms
+Download: 1.91 Mbit/s
+Upload: 1.10 Mbit/s
+
+Tue Jan  9 17:15:04 CET 2018
+Ping: 119.349 ms
+Download: 12.08 Mbit/s
+Upload: 0.90 Mbit/s
+
+Tue Jan  9 17:20:54 CET 2018
+Ping: 28.798 ms
+Download: 3.60 Mbit/s
+Upload: 1.06 Mbit/s
+
+Tue Jan  9 17:26:49 CET 2018
+Ping: 154.545 ms
+Download: 3.82 Mbit/s
+Upload: 1.28 Mbit/s
+
+Tue Jan  9 17:32:32 CET 2018
+Ping: 47.925 ms
+Download: 20.96 Mbit/s
+Upload: 1.65 Mbit/s
+
+Tue Jan  9 17:38:05 CET 2018
+Ping: 81.12 ms
+Download: 10.58 Mbit/s
+Upload: 1.21 Mbit/s
+
+Tue Jan  9 17:43:49 CET 2018
+Ping: 53.768 ms
+Download: 11.52 Mbit/s
+Upload: 1.01 Mbit/s
+
+Tue Jan  9 17:49:41 CET 2018
+Ping: 212.268 ms
+Download: 0.24 Mbit/s
+Upload: 0.86 Mbit/s
+
+Tue Jan  9 17:55:55 CET 2018
+Ping: 84.925 ms
+Download: 13.60 Mbit/s
+Upload: 1.27 Mbit/s
+
+Tue Jan  9 18:01:46 CET 2018
+Ping: 34.71 ms
+Download: 0.71 Mbit/s
+Upload: 1.13 Mbit/s
+
