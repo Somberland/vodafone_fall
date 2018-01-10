@@ -127,3 +127,58 @@ Wed Jan 10 13:16:33 CET 2018
 Ping: 86.181 ms
 Download: 3.56 Mbit/s
 Upload: 0.72 Mbit/s
+Wed Jan 10 13:32:30 CET 2018
+Ping: 48.257 ms
+Download: 4.00 Mbit/s
+Upload: 1.32 Mbit/s
+
+Wed Jan 10 13:48:04 CET 2018
+Ping: 190.037 ms
+Download: 3.04 Mbit/s
+Upload: 0.81 Mbit/s
+
+Wed Jan 10 14:04:01 CET 2018
+Ping: 163.699 ms
+Download: 1.30 Mbit/s
+Upload: 0.83 Mbit/s
+
+Wed Jan 10 14:19:56 CET 2018
+Ping: 97.312 ms
+Download: 1.70 Mbit/s
+Upload: 0.95 Mbit/s
+
+Wed Jan 10 14:35:54 CET 2018
+Ping: 185.525 ms
+Download: 3.60 Mbit/s
+Upload: 1.43 Mbit/s
+
+Wed Jan 10 14:51:40 CET 2018
+Ping: 318.005 ms
+Download: 1.54 Mbit/s
+Upload: 0.91 Mbit/s
+
+Wed Jan 10 15:07:37 CET 2018
+Ping: 113.803 ms
+Download: 2.05 Mbit/s
+Upload: 1.59 Mbit/s
+
+Wed Jan 10 15:23:20 CET 2018
+Ping: 223.788 ms
+Download: 3.30 Mbit/s
+Upload: 1.04 Mbit/s
+
+Wed Jan 10 15:39:15 CET 2018
+Ping: 81.334 ms
+Download: 2.65 Mbit/s
+Upload: 0.91 Mbit/s
+
+Wed Jan 10 15:55:06 CET 2018
+Ping: 242.325 ms
+Download: 1.35 Mbit/s
+Upload: 0.62 Mbit/s
+
+Wed Jan 10 16:11:06 CET 2018
+Ping: 79.612 ms
+Download: 3.20 Mbit/s
+Upload: 0.97 Mbit/s
+
