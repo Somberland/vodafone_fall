@@ -19,5 +19,7 @@ Im File **3) fritzbox - statistik am abend (18 Uhr).png** die Statistiken der Fr
 
 Im File **speedtest_results.txt** die Speedtests inklusive Anmerkungen wann welcher Router angestöpselt war.
 
+Edit 10.01.2018 - 7 Uhr:// **speedtest_15min_fritzbox.txt** zeigt in 15 Minuten Abständen die Verbindung via Fritzbox über Nacht. Switch auf KabelModem erfolgte gegen 7 Uhr.
 
-Stimmt was an den Pegeln o.ä. nicht? Die Fehler sollten ja mMn nicht sein. Wäre über jede Hilfe dankbar :) So macht ein neuer Anschluss echt keinen Spaß :( 
+
+Stimmt was an den Pegeln o.ä. nicht? Die Fehler sollten ja mMn nicht sein. Wäre über jede Hilfe dankbar :) So macht ein neuer Anschluss echt keinen Spaß :(
