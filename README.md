@@ -24,5 +24,6 @@ Edit 10.01.2018 - 7 Uhr:// **speedtest_15min_fritzbox.txt** zeigt in 15 Minuten 
 
 Edit 10.01.2018 - 13 Uhr:// **speedtest_15min_vodafone.txt** zeigt in 15 Minuten Abständen die Verbindung via Vodafone-Router über den Tag. Wird regelmäßig geupdatet.
 
+Edit 11.01.2018 - 17 Uhr:// Zetralstörung seitesn Vodafone den ganzen Tag -> Keine Internetverbindung. Seit 17 Uhr Modem wieder eine Verbindung. **Stats nach Zentralstörung seitens Vodafone.png** zeigt die neuen Modem-Werte nachdem Internetverbindung wiederhergestellt wurde.
 
 Stimmt was an den Pegeln o.ä. nicht? Die Fehler sollten ja mMn nicht sein. Wäre über jede Hilfe dankbar :) So macht ein neuer Anschluss echt keinen Spaß :(
